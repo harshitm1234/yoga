@@ -19,7 +19,7 @@ export const MainBox = styled(Box)(() => ({
 }))
 
 export const DrawerHeader = styled(Box)(() => ({
-  margin: '18px 0 10px',
+  marginTop: '100px',
   textAlign: 'center',
   cursor: 'pointer',
 }))
